@@ -29,7 +29,6 @@ Ensure you have the following prerequisites installed:
 
 - Go (if using the Go example)
 - Node.js (if using the Node.js example)
-- Postman (if using the Postman collection)
 
 ### Installation
 
